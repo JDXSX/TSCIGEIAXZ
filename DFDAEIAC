@@ -1,4 +1,4 @@
-def X1():
+def XS():
     dal  = "[FBAN/Orca-Android;FBAV/" + str(random.randint(196,214)) + '.0.0.' + str(random.randrange(33,66)) + ";FBBV/" + str(random.randint(111111111,999999999)) + ";"
     a = "[FBAN/FB4A;FBAV/171.6.47.24;FBBV/46503237;FBDM/{density=2.7,width=1089,height=1570};FBLC/en_US;FBRV/27550523;FBCR/null;FBMF/lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LGE;FBSV/7.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]" 
     b = "[FBAN/FB4A;FBAV/178.88.61.60;FBBV/70829502;FBDM/{density=1.6,width=831,height=2534};FBLC/en_US;FBRV/87894451;FBCR/null;FBMF/lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LGE;FBSV/4.9;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
